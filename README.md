@@ -30,6 +30,8 @@
   * OSI 7 Layers
   * API
   * RestAPI
+  * TCP/IP
+  * NAT/ Port Fowarding 
    
 2. **[Data Structure (자료구조)](./Data%20Structure)**
   * Queue
@@ -41,5 +43,10 @@
   * Python
   * C / C++
 
-4. **DevOps**
+4. **DevOps **
+  * IDC와 Cloud의 차이
+  * 멀리 있는 컴퓨터 끼리는 어떻게 데이터를 주고 받을까 
   * CI/CD
+  * scale up / scale out
+  * docker vs container vs VM
+  * kubernetes 
